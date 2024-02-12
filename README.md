@@ -2,6 +2,7 @@
 
 This is a Codeway Internship in which they have given me to perform three tasks.
 
+
 TASK-1 >> A Personal Portfolio Website using CSS and Html
 
 HEADER SECTION- In this I have included a header part which shows your name or a logo at the top 
@@ -16,11 +17,12 @@ CONTACT SECTION - Including a contact form for any queries.
 FOOTER SECTION - Adding any additionals links and information.
 
 
-TASK-2 >> A basic Calculator using CSS, HTML, JS
 
+TASK-2 >> A basic Calculator using CSS, HTML, JS
 Implemented an interactive interface with buttons for addition, subtraction, multiplication, and division operations.
 It have display screen  to show user Input and results. 
 Hve used event listeners , if-else statements, operators and loops to handle user inputs and perform calculations. 
+
 
 
 TASK-3 >> A Landing Page using CSS, HTML, JS
