@@ -27,6 +27,7 @@ Have used event listeners , if-else statements, operators and loops to handle us
 
 
 TASK-3 >> A Landing Page using CSS, HTML, JS
+
 HEADER SECTION >> This part includes the title and the navbar showing the links of the home page and the search option bar.
 
 BANNER SECTION >> This part includes the title heading of the movie along with the subheading and the watch & lists button
