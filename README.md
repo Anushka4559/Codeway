@@ -15,18 +15,17 @@ SKILLS SECTION- Listing my key skills and area of Experience.
 CONTACT SECTION - Including a contact form for any queries.
 
 FOOTER SECTION - Adding any additionals links and information.
-
-
-
+|
+|
+|
 TASK-2 >> A basic Calculator using CSS, HTML, JS
 Implemented an interactive interface with buttons for addition, subtraction, multiplication, and division operations.
 It have display screen  to show user Input and results. 
-Hve used event listeners , if-else statements, operators and loops to handle user inputs and perform calculations. 
-
-
-
+Have used event listeners , if-else statements, operators and loops to handle user inputs and perform calculations. 
+|
+|
+|
 TASK-3 >> A Landing Page using CSS, HTML, JS
-
 HEADER SECTION >> This part includes the title and the navbar showing the links of the home page and the search option bar.
 
 BANNER SECTION >> This part includes the title heading of the movie along with the subheading and the watch & lists button
